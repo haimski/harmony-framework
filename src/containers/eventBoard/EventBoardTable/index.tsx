@@ -10,7 +10,7 @@ interface Props {
 class EventBoardTable extends React.Component<Props> {
 	render() {
 		return (
-			<div>
+			<div className="container">
 				EventBoardTable New Container
 			</div>
 		);
